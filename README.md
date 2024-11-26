@@ -2,6 +2,11 @@
 
 First, create a .env file and add your keys for clerk, stripe, cloudinary and mongodb.
 
+## Clerk 
+```bash
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=yourclerkapppublickey
+CLERK_SECRET_KEY=yourappsecretkey
+```
 ## Cloudinary Keys
 
 ```bash
